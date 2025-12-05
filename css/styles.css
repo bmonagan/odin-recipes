@@ -1,6 +1,6 @@
 .container {
     display: flex;
-    width: 80%;
+    width: 65%;
     margin: 0 auto;
     padding: 20px;
     border: 1px solid darkblue;
@@ -9,16 +9,17 @@
     flex-direction: row;
     border-radius: 5%;
     gap: 5px;
+    flex-wrap: wrap;
 }
 .container-b {
     display: flex;
-    width: 80%;
+    width: 40%;
     margin: 0 auto;
     padding: 20px;
     border: 1px solid darkgreen;
     background-color: #80c5a1;
     align-items: baseline;
-    flex-direction: column;
+    flex-direction: row;
     border-radius: 5%;
     gap: 10px;
 }

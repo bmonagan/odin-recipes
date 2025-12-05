@@ -1,0 +1,16 @@
+.links {
+    display: block;
+    background-color: lightskyblue;
+    padding: 8px;
+    border: 2px solid blue;
+}
+h1 {
+    display: block;
+    font-size: 24px;
+    font-weight: bold;
+    color: darkblue;
+    background-color: lightgray;
+    text-align:  center;
+    border: 3px solid gray;
+    
+}
